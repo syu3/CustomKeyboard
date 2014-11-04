@@ -23,6 +23,7 @@
 		4B88843219FCD43C003C0D32 /* customKeyboardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B88843119FCD43C003C0D32 /* customKeyboardTests.m */; };
 		4B88843C19FCD601003C0D32 /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4B88843B19FCD601003C0D32 /* View.xib */; };
 		4B88843F19FCD668003C0D32 /* CustomNumKeyboard.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B88843E19FCD668003C0D32 /* CustomNumKeyboard.m */; };
+		4BDD8D601A03A77400B063B6 /* フリック.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BDD8D5F1A03A77400B063B6 /* フリック.png */; };
 		4BF5D05B19FFBF4B00886EC4 /* IMG_3709.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4BF5D05A19FFBF4B00886EC4 /* IMG_3709.PNG */; };
 		4BF5D05F19FFC08100886EC4 /* IMG_3710.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4BF5D05E19FFC08100886EC4 /* IMG_3710.PNG */; };
 		4BF5D06119FFC14700886EC4 /* IMG_370.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4BF5D06019FFC14700886EC4 /* IMG_370.PNG */; };
@@ -38,6 +39,19 @@
 			remoteInfo = customKeyboard;
 		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		4BE35E171A065FB400F8DDE2 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		4B88840319FCD43C003C0D32 /* customKeyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = customKeyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -59,9 +73,13 @@
 		4B88842D19FCD43C003C0D32 /* customKeyboardTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "customKeyboardTests-Info.plist"; sourceTree = "<group>"; };
 		4B88842F19FCD43C003C0D32 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4B88843119FCD43C003C0D32 /* customKeyboardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = customKeyboardTests.m; sourceTree = "<group>"; };
-		4B88843B19FCD601003C0D32 /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View.xib; sourceTree = "<group>"; };
-		4B88843D19FCD668003C0D32 /* d.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = d.h; sourceTree = "<group>"; };
-		4B88843E19FCD668003C0D32 /* CustomNumKeyboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomNumKeyboard.m; sourceTree = "<group>"; };
+		4B88843B19FCD601003C0D32 /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = View.xib; path = ../View.xib; sourceTree = "<group>"; };
+		4B88843D19FCD668003C0D32 /* d.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = d.h; path = ../d.h; sourceTree = "<group>"; };
+		4B88843E19FCD668003C0D32 /* CustomNumKeyboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CustomNumKeyboard.m; path = ../CustomNumKeyboard.m; sourceTree = "<group>"; };
+		4BDD8D5F1A03A77400B063B6 /* フリック.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "フリック.png"; sourceTree = "<group>"; };
+		4BE35E0B1A065FB400F8DDE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BE35E0C1A065FB400F8DDE2 /* KeyboardViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KeyboardViewController.h; sourceTree = "<group>"; };
+		4BE35E0D1A065FB400F8DDE2 /* KeyboardViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeyboardViewController.m; sourceTree = "<group>"; };
 		4BF5D05A19FFBF4B00886EC4 /* IMG_3709.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_3709.PNG; sourceTree = "<group>"; };
 		4BF5D05E19FFC08100886EC4 /* IMG_3710.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_3710.PNG; sourceTree = "<group>"; };
 		4BF5D06019FFC14700886EC4 /* IMG_370.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_370.PNG; sourceTree = "<group>"; };
@@ -95,11 +113,9 @@
 		4B8883FA19FCD43C003C0D32 = {
 			isa = PBXGroup;
 			children = (
-				4B88843B19FCD601003C0D32 /* View.xib */,
-				4B88843D19FCD668003C0D32 /* d.h */,
-				4B88843E19FCD668003C0D32 /* CustomNumKeyboard.m */,
 				4B88840C19FCD43C003C0D32 /* customKeyboard */,
 				4B88842B19FCD43C003C0D32 /* customKeyboardTests */,
+				4BE35E091A065FB400F8DDE2 /* customKeyboard1 */,
 				4B88840519FCD43C003C0D32 /* Frameworks */,
 				4B88840419FCD43C003C0D32 /* Products */,
 			);
@@ -133,7 +149,11 @@
 				4B88841819FCD43C003C0D32 /* Main.storyboard */,
 				4B88841B19FCD43C003C0D32 /* ViewController.h */,
 				4B88841C19FCD43C003C0D32 /* ViewController.m */,
+				4B88843D19FCD668003C0D32 /* d.h */,
+				4B88843E19FCD668003C0D32 /* CustomNumKeyboard.m */,
+				4B88843B19FCD601003C0D32 /* View.xib */,
 				4B88841E19FCD43C003C0D32 /* Images.xcassets */,
+				4BDD8D5F1A03A77400B063B6 /* フリック.png */,
 				4BF5D05A19FFBF4B00886EC4 /* IMG_3709.PNG */,
 				4BF5D05E19FFC08100886EC4 /* IMG_3710.PNG */,
 				4BF5D06019FFC14700886EC4 /* IMG_370.PNG */,
@@ -172,6 +192,24 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		4BE35E091A065FB400F8DDE2 /* customKeyboard1 */ = {
+			isa = PBXGroup;
+			children = (
+				4BE35E0C1A065FB400F8DDE2 /* KeyboardViewController.h */,
+				4BE35E0D1A065FB400F8DDE2 /* KeyboardViewController.m */,
+				4BE35E0A1A065FB400F8DDE2 /* Supporting Files */,
+			);
+			path = customKeyboard1;
+			sourceTree = "<group>";
+		};
+		4BE35E0A1A065FB400F8DDE2 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4BE35E0B1A065FB400F8DDE2 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -182,6 +220,7 @@
 				4B8883FF19FCD43C003C0D32 /* Sources */,
 				4B88840019FCD43C003C0D32 /* Frameworks */,
 				4B88840119FCD43C003C0D32 /* Resources */,
+				4BE35E171A065FB400F8DDE2 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
@@ -250,6 +289,7 @@
 			files = (
 				4BF5D05F19FFC08100886EC4 /* IMG_3710.PNG in Resources */,
 				4B88843C19FCD601003C0D32 /* View.xib in Resources */,
+				4BDD8D601A03A77400B063B6 /* フリック.png in Resources */,
 				4BF5D06119FFC14700886EC4 /* IMG_370.PNG in Resources */,
 				4B88841F19FCD43C003C0D32 /* Images.xcassets in Resources */,
 				4BF5D05B19FFBF4B00886EC4 /* IMG_3709.PNG in Resources */,

@@ -7,78 +7,126 @@
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
         <view contentMode="scaleToFill" placeholderIntrinsicWidth="480" placeholderIntrinsicHeight="320" id="iN0-l3-epB" customClass="CustomNumKeyboard">
-            <rect key="frame" x="0.0" y="0.0" width="480" height="320"/>
+            <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3711.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="8nI-zr-a5h">
-                    <rect key="frame" x="277" y="147" width="43" height="43"/>
+                    <rect key="frame" x="277" y="173" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3711.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="cQJ-Hm-1ca">
-                    <rect key="frame" x="277" y="105" width="43" height="43"/>
+                    <rect key="frame" x="277" y="131" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3711.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="TB4-CA-Enc">
-                    <rect key="frame" x="277" y="63" width="43" height="43"/>
+                    <rect key="frame" x="277" y="89" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3711.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="Vyl-8p-XpA">
-                    <rect key="frame" x="277" y="20" width="43" height="43"/>
+                    <rect key="frame" x="277" y="46" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3710.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="VsN-1p-9oI">
-                    <rect key="frame" x="150" y="20" width="43" height="43"/>
+                    <rect key="frame" x="150" y="46" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3710.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="meQ-PZ-D5v">
-                    <rect key="frame" x="234" y="20" width="43" height="43"/>
+                    <rect key="frame" x="234" y="46" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3710.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="hrg-ds-oFS">
-                    <rect key="frame" x="192" y="19" width="43" height="43"/>
+                    <rect key="frame" x="192" y="45" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3710.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="Cqr-0q-hlY">
-                    <rect key="frame" x="150" y="105" width="43" height="43"/>
+                    <rect key="frame" x="150" y="131" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3710.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="XHS-uG-AKn">
-                    <rect key="frame" x="192" y="104" width="43" height="43"/>
+                    <rect key="frame" x="192" y="130" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3710.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="hte-4e-eTA">
-                    <rect key="frame" x="234" y="63" width="43" height="43"/>
+                    <rect key="frame" x="234" y="89" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3710.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="fVJ-g0-SdQ">
-                    <rect key="frame" x="192" y="62" width="43" height="43"/>
+                    <rect key="frame" x="192" y="88" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3710.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="w4V-6Y-7bO">
-                    <rect key="frame" x="150" y="63" width="43" height="43"/>
+                    <rect key="frame" x="150" y="89" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3710.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="Xl4-nj-bwI">
-                    <rect key="frame" x="192" y="146" width="43" height="43"/>
+                    <rect key="frame" x="192" y="172" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3711.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="mYU-5T-eqY">
-                    <rect key="frame" x="150" y="147" width="43" height="43"/>
+                    <rect key="frame" x="150" y="173" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3710.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="Bh4-5C-Paf">
-                    <rect key="frame" x="234" y="105" width="43" height="43"/>
+                    <rect key="frame" x="234" y="131" width="43" height="43"/>
                 </imageView>
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_3710.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="JnH-06-W46">
-                    <rect key="frame" x="234" y="147" width="43" height="43"/>
+                    <rect key="frame" x="234" y="173" width="43" height="43"/>
                 </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vpe-06-CIA">
+                    <rect key="frame" x="150" y="172" width="170" height="1"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kci-uy-CLY">
+                    <rect key="frame" x="150" y="89" width="170" height="1"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Cy9-Fb-uqy">
+                    <rect key="frame" x="150" y="130" width="170" height="1"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eJO-4n-v7Z">
+                    <rect key="frame" x="192" y="46" width="1" height="170"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cWL-fg-NhH">
+                    <rect key="frame" x="276" y="46" width="1" height="170"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lNw-rm-rdq">
+                    <rect key="frame" x="234" y="46" width="1" height="170"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="wGP-kN-RWe">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="216"/>
+                </view>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BEa-Cq-6OT">
-                    <rect key="frame" x="277" y="147" width="43" height="43"/>
+                    <rect key="frame" x="277" y="173" width="43" height="43"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                     <state key="normal" title="改行">
                         <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                     </state>
                     <connections>
-                        <action selector="delegate" destination="iN0-l3-epB" eventType="touchUpInside" id="Zgl-Jj-rtL"/>
+                        <action selector="kaigyou" destination="iN0-l3-epB" eventType="touchUpInside" id="V61-Bl-VnQ"/>
                     </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TD6-0C-Lu1">
-                    <rect key="frame" x="277" y="105" width="43" height="43"/>
+                    <rect key="frame" x="277" y="131" width="43" height="43"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                     <state key="normal" title="→">
                         <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                     </state>
+                    <connections>
+                        <action selector="kasoru" destination="iN0-l3-epB" eventType="touchUpInside" id="DcE-LM-4Hh"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u9r-c4-kSs">
-                    <rect key="frame" x="277" y="63" width="43" height="43"/>
+                    <rect key="frame" x="277" y="89" width="43" height="43"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                     <state key="normal" title="空白">
                         <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -89,67 +137,37 @@
                     </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hkD-JP-Dsn">
-                    <rect key="frame" x="277" y="20" width="43" height="43"/>
+                    <rect key="frame" x="277" y="46" width="43" height="43"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                     <state key="normal" title="消">
                         <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                     </state>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QqV-Xu-Wpe">
-                    <rect key="frame" x="192" y="146" width="43" height="43"/>
-                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
-                    <state key="normal" title="わ">
-                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
                     <connections>
-                        <action selector="wa:" destination="iN0-l3-epB" eventType="touchUpInside" id="USY-4c-CBh"/>
-                    </connections>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="efB-9O-cRc">
-                    <rect key="frame" x="192" y="104" width="43" height="43"/>
-                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
-                    <state key="normal" title="や">
-                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <connections>
-                        <action selector="ya:" destination="iN0-l3-epB" eventType="touchUpInside" id="R9z-0k-3G4"/>
-                    </connections>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zfo-64-hDF">
-                    <rect key="frame" x="192" y="62" width="43" height="43"/>
-                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
-                    <state key="normal" title="な">
-                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <connections>
-                        <action selector="na:" destination="iN0-l3-epB" eventType="touchUpInside" id="aLB-Fb-fRS"/>
-                    </connections>
-                </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g7X-7v-fuq">
-                    <rect key="frame" x="192" y="19" width="43" height="43"/>
-                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
-                    <state key="normal" title="か">
-                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <connections>
-                        <action selector="ka:" destination="iN0-l3-epB" eventType="touchUpInside" id="5GP-yr-NAe"/>
+                        <action selector="syoukyo" destination="iN0-l3-epB" eventType="touchUpInside" id="UEY-TR-db4"/>
                     </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="45s-jk-xTu">
-                    <rect key="frame" x="234" y="147" width="43" height="43"/>
+                    <rect key="frame" x="234" y="173" width="43" height="43"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="15"/>
                     <state key="normal" title="、。?!">
                         <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                     </state>
                 </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eWl-BB-vv9">
+                    <rect key="frame" x="150" y="173" width="43" height="43"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
+                    <state key="normal" title="変更">
+                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="henkou" destination="iN0-l3-epB" eventType="touchUpInside" id="hGV-CY-zfF"/>
+                    </connections>
+                </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ySO-Xx-6bL">
-                    <rect key="frame" x="234" y="105" width="43" height="43"/>
+                    <rect key="frame" x="234" y="131" width="43" height="43"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                     <state key="normal" title="ら">
                         <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -160,7 +178,7 @@
                     </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rQF-YP-Z5m">
-                    <rect key="frame" x="234" y="63" width="43" height="43"/>
+                    <rect key="frame" x="234" y="89" width="43" height="43"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                     <state key="normal" title="は">
                         <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -170,8 +188,41 @@
                         <action selector="ha:" destination="iN0-l3-epB" eventType="touchUpInside" id="onf-bU-As9"/>
                     </connections>
                 </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QqV-Xu-Wpe">
+                    <rect key="frame" x="192" y="172" width="43" height="43"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
+                    <state key="normal" title="わ">
+                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="wa:" destination="iN0-l3-epB" eventType="touchUpInside" id="USY-4c-CBh"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="efB-9O-cRc">
+                    <rect key="frame" x="192" y="130" width="43" height="43"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
+                    <state key="normal" title="や">
+                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="ya:" destination="iN0-l3-epB" eventType="touchUpInside" id="R9z-0k-3G4"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zfo-64-hDF">
+                    <rect key="frame" x="192" y="88" width="43" height="43"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
+                    <state key="normal" title="な">
+                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="na:" destination="iN0-l3-epB" eventType="touchUpInside" id="aLB-Fb-fRS"/>
+                    </connections>
+                </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u3y-Mu-SrK">
-                    <rect key="frame" x="234" y="20" width="43" height="43"/>
+                    <rect key="frame" x="234" y="46" width="43" height="43"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                     <state key="normal" title="さ">
                         <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -181,19 +232,8 @@
                         <action selector="sa:" destination="iN0-l3-epB" eventType="touchUpInside" id="Dez-A0-RMg"/>
                     </connections>
                 </button>
-                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eWl-BB-vv9">
-                    <rect key="frame" x="150" y="147" width="43" height="43"/>
-                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
-                    <state key="normal" title="変更">
-                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                    </state>
-                    <connections>
-                        <action selector="thenzi" destination="iN0-l3-epB" eventType="touchUpInside" id="njc-bM-ONY"/>
-                    </connections>
-                </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="76S-bx-N0L">
-                    <rect key="frame" x="150" y="105" width="43" height="43"/>
+                    <rect key="frame" x="150" y="131" width="43" height="43"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                     <state key="normal" title="ま">
                         <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -204,7 +244,7 @@
                     </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Q1B-QJ-FnG">
-                    <rect key="frame" x="150" y="63" width="43" height="43"/>
+                    <rect key="frame" x="150" y="89" width="43" height="43"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                     <state key="normal" title="た">
                         <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -214,8 +254,19 @@
                         <action selector="ta:" destination="iN0-l3-epB" eventType="touchUpInside" id="PVV-cS-CZe"/>
                     </connections>
                 </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g7X-7v-fuq">
+                    <rect key="frame" x="192" y="45" width="43" height="43"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
+                    <state key="normal" title="か">
+                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="ka:" destination="iN0-l3-epB" eventType="touchUpInside" id="5GP-yr-NAe"/>
+                    </connections>
+                </button>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" placeholderIntrinsicWidth="63" placeholderIntrinsicHeight="63" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hGx-U5-ti4">
-                    <rect key="frame" x="150" y="20" width="43" height="43"/>
+                    <rect key="frame" x="150" y="46" width="43" height="43"/>
                     <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="18"/>
                     <state key="normal" title="あ">
                         <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -225,62 +276,28 @@
                         <action selector="a:" destination="iN0-l3-epB" eventType="touchUpInside" id="a7C-XO-ESL"/>
                     </connections>
                 </button>
-                <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="xJH-cF-h0L">
-                    <rect key="frame" x="150" y="20" width="43" height="43"/>
-                    <gestureRecognizers/>
-                </view>
-                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vpe-06-CIA">
-                    <rect key="frame" x="150" y="146" width="170" height="1"/>
-                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
-                    <nil key="highlightedColor"/>
-                </label>
-                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kci-uy-CLY">
-                    <rect key="frame" x="150" y="63" width="170" height="1"/>
-                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
-                    <nil key="highlightedColor"/>
-                </label>
-                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Cy9-Fb-uqy">
-                    <rect key="frame" x="150" y="104" width="170" height="1"/>
-                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
-                    <nil key="highlightedColor"/>
-                </label>
-                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eJO-4n-v7Z">
-                    <rect key="frame" x="192" y="20" width="1" height="170"/>
-                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
-                    <nil key="highlightedColor"/>
-                </label>
-                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cWL-fg-NhH">
-                    <rect key="frame" x="276" y="20" width="1" height="170"/>
-                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
-                    <nil key="highlightedColor"/>
-                </label>
-                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lNw-rm-rdq">
-                    <rect key="frame" x="234" y="20" width="1" height="170"/>
-                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
-                    <nil key="highlightedColor"/>
-                </label>
+                <imageView userInteractionEnabled="NO" alpha="0.0" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="フリック.png" translatesAutoresizingMaskIntoConstraints="NO" id="KRg-3j-nPz">
+                    <rect key="frame" x="63" y="-32" width="217" height="213"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" alpha="0.0" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="フリック.png" translatesAutoresizingMaskIntoConstraints="NO" id="Cm2-M3-hV6">
+                    <rect key="frame" x="107" y="-32" width="217" height="213"/>
+                </imageView>
             </subviews>
             <color key="backgroundColor" red="0.89861686860000001" green="0.89277084029999998" blue="0.84755909200000001" alpha="1" colorSpace="calibratedRGB"/>
             <nil key="simulatedStatusBarMetrics"/>
-            <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
+            <simulatedOrientationMetrics key="simulatedOrientationMetrics"/>
             <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="imageview" destination="KRg-3j-nPz" id="Si1-g7-YSG"/>
+                <outlet property="imageview1" destination="Cm2-M3-hV6" id="Jeh-cP-Vfe"/>
+            </connections>
+            <point key="canvasLocation" x="143" y="114"/>
         </view>
     </objects>
     <resources>
         <image name="IMG_3710.PNG" width="80" height="75"/>
         <image name="IMG_3711.PNG" width="79" height="74"/>
+        <image name="フリック.png" width="500" height="500"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
